@@ -1,6 +1,6 @@
 # where to get keto fuel
 
-http://superbodyfuel.com/shop/keto-fuel/
+[http://superbodyfuel.com/shop/keto-fuel/](http://superbodyfuel.com/shop/keto-fuel/)
 
 What I do is buy 3 bags at a time as a subscription. That way I get the sub discount and no shipping. Then it comes out to $40 a bag. Each bag has 10,000 calories which is like 5 days worth at the start, but later you’ll probably eat less (if everything goes to plan). 
 
@@ -27,6 +27,10 @@ The glucose # gives me an idea of how hungry I am going to be this day.  I think
 I used these blood tests to really dial in what I could eat.  I figured out a base set of food that I knew that would make the numbers go in the right direction, then I would add a single thing and see how it all turned out the next day (I would have done it immediately after if I had test strip $$ to burn).  If the numbers kept improving, then I knew it would be an ok food.  I suspect everyone will be different but some staples of mine in addition to the ketofuel are eggs, cheese sticks, nori, pickles, coconut cream and mushrooms.  Things that seem like they'd be ok, but don't work for me are jerky, quest bars, sugar alcohols and nuts.
 
 To get things going usually I just drink exclusively ketofuel, but as much as I want until my blood numbers look good.  By then I'm not really that hungry ever, so I start to intermittently fast.  I usually only drink coffee until like 2-4.  Then I drink about 100ml of ketofuel per hour or whenever I'm hungry with a couple ok snacks if I am still hungry.  My goal is to keep myself below 1200 calories a day
+
+I used this technique again to discover the truth behind a lot of foods that are marketed as 'keto-friendly'.  At one point, I was trying to engineer my own soylent and made it out of just protein and fiber.  But, my blood glucose would stay high even though this was pretty much all I was eating for a couple days.  Turns out that the distinction between soluble and insoluble fiber is important and under-reported.  The fiber I was taking, which was basically metamucil, was 100% soluble fiber.  These are basically carbs-lite.  Taking that out of my diet immediately corrected the numbers and fixed my hunger back to how it was before.
+
+Lots of foods use this soluble/insoluble trick to hide what they put in there udner the rubric of 'dietary fiber'.  If it doesn't explicitly say 'insoluble', I assume it's the carb-lite somewhat bad kind.  They do this with all sorts of keto snack bars and candies, too.  Or they use sugar alcohols.  Some are said not to affect blood sugar (xylitol, erythritol, stevia), while others like malitol are similar to soluble fiber and are carbs-lite.  Stover's candies, for example say 'made with stevia' prominently on the label, but stevia is way down on the ingredients list while malitol is up at the top.   Basically none of these are good for you.  The kinds of sugar alcohols and fiber that taste good are carby and the ones that are carb free taste kinda bad so you couldn't really pack enough together to make a bar or a candy, so I just avoid them all together.
 
 
 # how really this is a psychological problem, not nutritional or physiological
