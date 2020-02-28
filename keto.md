@@ -47,6 +47,8 @@ I think going into keto helped solve the problem of that really ravenous, can't 
 
 I started using headspace daily during this time which I think really helped as they have 30day courses specifically about hunger and craving.  I also walked 4 miles daily and did a light workout every day.  Like I mentioned, I kept a very visible log of doing all this stuff in a place I saw it constantly.  I had a digital scale.  I think this was pretty critical so I could see that it was actually working and also to reassure myself when I slipped back that I hadn't really slipped that much at all.
 
+I liked how [this book](https://www.amazon.com/dp/B01LXT28ZE) explained the low-level physiological details of hunger.
+
 # mantras to overcome hunger
 
 I credit a lot of my success to thinking back to a couple of ideas or mantras to help me overcome hunger:
