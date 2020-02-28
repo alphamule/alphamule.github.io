@@ -32,6 +32,8 @@ I used this technique again to discover the truth behind a lot of foods that are
 
 Lots of foods use this soluble/insoluble trick to hide what they put in there udner the rubric of 'dietary fiber'.  If it doesn't explicitly say 'insoluble', I assume it's the carb-lite somewhat bad kind.  They do this with all sorts of keto snack bars and candies, too.  Or they use sugar alcohols.  Some are said not to affect blood sugar (xylitol, erythritol, stevia), while others like malitol are similar to soluble fiber and are carbs-lite.  Stover's candies, for example say 'made with stevia' prominently on the label, but stevia is way down on the ingredients list while malitol is up at the top.   Basically none of these are good for you.  The kinds of sugar alcohols and fiber that taste good are carby and the ones that are carb free taste kinda bad so you couldn't really pack enough together to make a bar or a candy, so I just avoid them all together.
 
+Another thing I learned from that pure protein/fiber mix was that you can have too much protein.  Some people say that you need 1g protein per 1lb body weight, so I tried eating 150g.  Eating this, I could not get my glucose number to go below 90.  I suspect my body was undergoing gluconeogenesis, where excess protein is converted to glucose.  When I dialed this back to 100g, both my glucose and ketone levels started moving in the right directions. 
+
 
 # how really this is a psychological problem, not nutritional or physiological
 
