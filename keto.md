@@ -34,6 +34,8 @@ Lots of foods use this soluble/insoluble trick to hide what they put in there ud
 
 Another thing I learned from that pure protein/fiber mix was that you can have too much protein.  Some people say that you need 1g protein per 1lb body weight, so I tried eating 150g.  Eating this, I could not get my glucose number to go below 90.  I suspect my body was undergoing gluconeogenesis, where excess protein is converted to glucose.  When I dialed this back to 100g, both my glucose and ketone levels started moving in the right directions. 
 
+After these experiments, I just went back to eating the regular ketofuel recipe, as this was way easier and seemed to work better anyways.
+
 
 # how really this is a psychological problem, not nutritional or physiological
 
